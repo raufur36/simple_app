@@ -6,7 +6,7 @@ const Basket = () => {
     return (
         <>
            <div>
-           <div className="flex justify-between mt-[250px] rounded-t-2xl mr-[450px] ms-10 bg-white text-black pb-5">
+           <div className="flex justify-between mt-[250px] rounded-t-2xl mr-[500px] ms-10 bg-white text-black pb-5">
                 <table className=" w-full">
                     <thead className="border-b-2 border-gray-200">
                         <tr className="" >

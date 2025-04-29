@@ -26,7 +26,7 @@ const Cart = ({ item, removeItem }) => {
                                 }}
 
                                 type="button"
-                                className="text-gray-400 hover:text-gray-600 text-2xl font-bold focus:outline-none "
+                                className="text-gray-400 hover:text-gray-600 text-2xl font-bold focus:outline-none ml-20"
                                 aria-label="Close"
                             >
                                 ×

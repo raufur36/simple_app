@@ -53,7 +53,7 @@ function App() {
 
       </Suspense>
       {/* <Cart></Cart> */}
-      <div className='h-auto rounded-2xl bg-white text-black  text-center w-[24%] relative bottom-[770px] left-[1130px]' >
+      <div className='h-auto rounded-2xl bg-white text-black  text-center w-[24%] relative bottom-[770px] left-[1420px]' >
         <div className='border-b-2 border-gray-200 py-3 flex justify-center items-center gap-4' >
           <button > <IoIosHeartEmpty color="blue" size={30} /></button>
           <h1 className='text-3xl font-semibold' >Favorite Items</h1>
